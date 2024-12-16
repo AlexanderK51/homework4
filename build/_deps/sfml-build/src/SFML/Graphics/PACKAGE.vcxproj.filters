@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\CMakeFiles\123535c7f52e0485b82c292f2c533f05\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CC0241BF-BB12-3CD0-8E44-8B9DB5636F79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

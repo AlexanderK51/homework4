@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/1a62c5cb8088a9d82930b01bda64ef9f/sfml-populate.rule"
+		},
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/d78708f857cae858cfde868669683f3e/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/f9fd1d01de72a34c095df2b17fcec163/sfml-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/f9fd1d01de72a34c095df2b17fcec163/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/f9fd1d01de72a34c095df2b17fcec163/sfml-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/f9fd1d01de72a34c095df2b17fcec163/sfml-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/f9fd1d01de72a34c095df2b17fcec163/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/f9fd1d01de72a34c095df2b17fcec163/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/f9fd1d01de72a34c095df2b17fcec163/sfml-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/alexa/homework4/build/_deps/sfml-subbuild/CMakeFiles/f9fd1d01de72a34c095df2b17fcec163/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\f9fd1d01de72a34c095df2b17fcec163\sfml-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\f9fd1d01de72a34c095df2b17fcec163\sfml-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\f9fd1d01de72a34c095df2b17fcec163\sfml-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\f9fd1d01de72a34c095df2b17fcec163\sfml-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\f9fd1d01de72a34c095df2b17fcec163\sfml-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\f9fd1d01de72a34c095df2b17fcec163\sfml-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\f9fd1d01de72a34c095df2b17fcec163\sfml-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\f9fd1d01de72a34c095df2b17fcec163\sfml-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\d78708f857cae858cfde868669683f3e\sfml-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\1a62c5cb8088a9d82930b01bda64ef9f\sfml-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\alexa\homework4\build\_deps\sfml-subbuild\CMakeFiles\sfml-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{193CDF7C-F4D8-360A-82E1-0BA27D03B594}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

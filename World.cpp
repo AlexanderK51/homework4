@@ -69,6 +69,11 @@ World::World(const std::string& worldFilePath) {
         // сконструируем объект Ball ball;
         // добавьте его в конец контейнера вызовом
         // balls.push_back(ball);
+        Ball ball;
+        ball.setCenter(Point{x,y});
+        ball.setVelocity(Velocity{vx, vy});
+        //ball.draw();
+        balls.push_back(ball);
     }
 }
 
@@ -77,7 +82,6 @@ void World::show(Painter& painter) const {
     // Рисуем белый прямоугольник, отображающий границу
     // мира
     painter.draw(topLeft, bottomRight, Color(1, 1, 1));
-
     // Вызываем отрисовку каждого шара
     for (const Ball& ball : balls) {
         ball.draw(painter);
