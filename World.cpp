@@ -69,11 +69,14 @@ World::World(const std::string& worldFilePath) {
         // сконструируем объект Ball ball;
         // добавьте его в конец контейнера вызовом
         // balls.push_back(ball);
-        Ball ball;
-        ball.setCenter(Point{x,y});
-        ball.setVelocity(Velocity{vx, vy});
+        // Ball ball;
+        // ball.setCenter(Point(x,y));
+        // ball.setVelocity(Velocity(vx, vy));
+        // ball.setColor(Color(red,green,blue));
+        // ball._radius = radius;
+        
         //ball.draw();
-        balls.push_back(ball);
+        balls.push_back(Ball(Point(x,y), Velocity(Point(vx, vy)),Color(red,green,blue),radius));
     }
 }
 

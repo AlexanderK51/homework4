@@ -10,7 +10,7 @@
             "request": "launch",
             "skipFiles": ["<node_internals>/**"],
             "program": "C:\\Users\\alexa\\homework4\\build\\Debug\\physics.exe",
-            "args": ["\\initdata\\smile.txt"]
+            "args": ["C:\\Users\\alexa\\homework4\\data\\smile.txt"]
           }
 
     ]
